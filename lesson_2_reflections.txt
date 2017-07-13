@@ -1,2 +1,4 @@
 1. What happens when you initalize a respository? Why do you need to do it?
 It seens that it just takes all the files in that folder and lets Git know that this is the place we are going to keep track of. We need to do it so Git understands what files we want to track.
+2. How is the staging area different from the working directory and the respository? What value do you think it offers?
+The staging area handles just the files getting ready to send to a commit. The working directory takes care of all the files involved in whatever you are working on. It makes it possible to seperate out just the files you want to send to a commit but keep track of all the files for that program.
