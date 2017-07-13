@@ -4,3 +4,5 @@ It seens that it just takes all the files in that folder and lets Git know that 
 The staging area handles just the files getting ready to send to a commit. The working directory takes care of all the files involved in whatever you are working on. It makes it possible to seperate out just the files you want to send to a commit but keep track of all the files for that program.
 3. How can you use the staging area to make sure you have one commit per logical change?
 YOu can run git diff --staged to verify the differences between the current version and the one you are going to commit and see how many things have changed. 
+4. What are some situations when branches would be helpful in keeping your history organized? how would branches help.
+Using branches to seperate platforms like ios and Android, or release versions ie windows 7 to 10. It wouls make it possible to keep a project together but seperate and stop confusion. 
