@@ -2,3 +2,5 @@
 It seens that it just takes all the files in that folder and lets Git know that this is the place we are going to keep track of. We need to do it so Git understands what files we want to track.
 2. How is the staging area different from the working directory and the respository? What value do you think it offers?
 The staging area handles just the files getting ready to send to a commit. The working directory takes care of all the files involved in whatever you are working on. It makes it possible to seperate out just the files you want to send to a commit but keep track of all the files for that program.
+3. How can you use the staging area to make sure you have one commit per logical change?
+YOu can run git diff --staged to verify the differences between the current version and the one you are going to commit and see how many things have changed. 
