@@ -1,0 +1,23 @@
+1. (Q)  How did viewing a diff between two versions of a file help you 
+1. (Q) see the bug that was interduced?
+1. (A) It singled out just the differences in the code.
+1. (A) You knew there was i difference and weren't trying to scan the
+1. (A) code looking for differences trying not to miss any.
+2. (Q) How could having easy access to the entire history of a file 
+2. (Q) make you a more effcient programmer in the long term?
+2. (A) You can quickly find mistakes in code by comparing old and new
+2. (A) versions. You can roll back to pervious version if the new 
+2. (A) is too broken to run. 
+3. (Q) Why do you thing some version control systems, like git allow
+3. (Q)saving multiple files in one commit, while others like google 
+3. (Q) docs, treat each file separately?
+3. (A) Most programs have multiple files and trying to updated them
+3. (A) all separately would become confusing with the changes of
+3. (A) differnt files at different times. 
+4. (Q) How might version control make you more confident to make 
+4. (Q) changes that could break something?
+4. (A) You can easily revert to a previous commit and check the diff to
+4. (A) to see what broke
+5. (Q)  Now that you have your workspace set up, what do you wnat to
+5. (Q) try using Git for? 
+5. (A) My Udacity Android Nanodegree

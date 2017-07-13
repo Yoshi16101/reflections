@@ -1,0 +1,2 @@
+1. What happens when you initalize a respository? Why do you need to do it?
+It seens that it just takes all the files in that folder and lets Git know that this is the place we are going to keep track of. We need to do it so Git understands what files we want to track.
