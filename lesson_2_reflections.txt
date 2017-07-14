@@ -6,3 +6,5 @@ The staging area handles just the files getting ready to send to a commit. The w
 YOu can run git diff --staged to verify the differences between the current version and the one you are going to commit and see how many things have changed. 
 4. What are some situations when branches would be helpful in keeping your history organized? how would branches help.
 Using branches to seperate platforms like ios and Android, or release versions ie windows 7 to 10. It wouls make it possible to keep a project together but seperate and stop confusion. 
+5. How do the diagrams help you visualize the branch structure?
+It helps you see where each commit branches off and the parent for that branch.
