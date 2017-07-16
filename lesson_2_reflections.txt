@@ -8,3 +8,5 @@ YOu can run git diff --staged to verify the differences between the current vers
 Using branches to seperate platforms like ios and Android, or release versions ie windows 7 to 10. It wouls make it possible to keep a project together but seperate and stop confusion. 
 5. How do the diagrams help you visualize the branch structure?
 It helps you see where each commit branches off and the parent for that branch.
+6. What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+I could not get them to merge I dont think Git works well on a windows computer I've been having a ton of problems. :(  
