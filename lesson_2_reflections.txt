@@ -10,3 +10,4 @@ Using branches to seperate platforms like ios and Android, or release versions i
 It helps you see where each commit branches off and the parent for that branch.
 6. What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 I could not get them to merge I dont think Git works well on a windows computer I've been having a ton of problems. :(  
+7. What are the pros and cons of Gits automatic merging vs alwasy doing merges manually? The pros are that if it does work its a lot faster then merging the two files yourself. the cons are that it doesn't work well if the files are made on two differnt OS like mac and windows and it doesnt' work most of the time.
