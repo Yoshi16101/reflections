@@ -4,3 +4,5 @@ Why might you want to pull changes manually rather than having Git automatically
 you might not want to work on the latest file or it might change as your working on currently.
 Describe the differences between forks, clones, and branches. When would you use one instead of another?
 Forks let you take another project and change it without messing up the original but giving credit to the original project. Clones copy projects and dont change the original but dont give credit to the original project. And branches let you add to an existing project to merge later.
+What is the benefit of having a copy of the last known state of the remote stored locally?
+It lets you see the most up to date code even if you are working on an older commit.
