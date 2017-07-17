@@ -6,3 +6,5 @@ Describe the differences between forks, clones, and branches. When would you use
 Forks let you take another project and change it without messing up the original but giving credit to the original project. Clones copy projects and dont change the original but dont give credit to the original project. And branches let you add to an existing project to merge later.
 What is the benefit of having a copy of the last known state of the remote stored locally?
 It lets you see the most up to date code even if you are working on an older commit.
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+I guess using drop box with a log saying you checked out a file to work on and the changes you made or are making but it would be a lot harder to keep track of changes and other people might want to work on the same file at the same time.
